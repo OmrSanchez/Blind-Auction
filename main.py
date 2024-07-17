@@ -1,6 +1,4 @@
 from art import logo
-from os import system, name
-
 
 print(logo)
 all_bidders = False
